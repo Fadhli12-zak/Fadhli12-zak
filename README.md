@@ -1,8 +1,8 @@
 # Hi, I'm Fadhli Muhammad Dzaki
 
-Informatics student from **Bandung, Indonesia** focused on **frontend and full-stack web development**.
+Frontend and full-stack web developer based in **Bandung, Indonesia**.
 
-I enjoy building practical web applications, improving UI quality, and turning academic or personal projects into cleaner portfolio-ready work.
+I build practical web applications, improve UI quality, and turn rough project ideas into cleaner, portfolio-ready products.
 
 ## Current Focus
 - Building polished portfolio projects
@@ -18,9 +18,10 @@ I enjoy building practical web applications, improving UI quality, and turning a
 
 ## Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
-- **Programming:** TypeScript, Java, C#, Dart
+- **Programming:** TypeScript, Java, C#, Dart, Go, Python
 - **Tools & Practices:** Git, GitHub, responsive UI development, component-based architecture
 
 ## Contact
 - GitHub: <https://github.com/Fadhli12-zak>
+- Portfolio: <https://personalwebfaddzak.vercel.app/#hero>
 - Location: Bandung, Indonesia
