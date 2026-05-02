@@ -5,8 +5,8 @@
 Building practical web products, polished interfaces, and useful experiments.
 
 <p>
-  <img src="https://img.shields.io/badge/Frontend%20Developer-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20%26%20Mobile%20Projects-1f2937?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20%26%20Mobile%20Developer-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20%26%20Mobile%20Enthusiast-1f2937?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 </div>
@@ -17,9 +17,9 @@ I use this GitHub to document real projects, technical experiments, and practica
 
 ## Current Focus
 
-- Frontend development with **Next.js**, **React**, and **JavaScript / TypeScript**
-- Building portfolio-quality web apps with cleaner UI and structure
-- Exploring mobile and Firebase-based product workflows
+- Web development with **Next.js**, **React**, and **JavaScript / TypeScript**
+- Mobile and Firebase-based product workflows
+- Building portfolio-quality apps with cleaner UI and structure
 - Improving project presentation, workflow quality, and practical execution
 
 ## Highlight Repositories
@@ -52,6 +52,14 @@ I use this GitHub to document real projects, technical experiments, and practica
 - Keep projects practical and presentable
 - Improve UI quality without overcomplicating the stack
 - Turn experiments into reusable learning and stronger portfolio pieces
+
+## Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fadhli12-zak/Fadhli12-zak/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fadhli12-zak/Fadhli12-zak/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Fadhli12-zak/Fadhli12-zak/output/pacman-contribution-graph.svg">
+</picture>
 
 ## Connect
 
