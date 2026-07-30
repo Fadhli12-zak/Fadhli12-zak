@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Fadhli Dzaki
+# Hi, I'm fadli
 
 Building practical web products, polished interfaces, and useful experiments.
 
